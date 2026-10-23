@@ -1,0 +1,7 @@
+node_modules/
+frontend/dist/
+.env
+.env.*
+!.env.example
+backend/data/users.json
+npm-debug.log*
